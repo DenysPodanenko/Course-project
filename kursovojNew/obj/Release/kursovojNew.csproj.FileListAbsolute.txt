@@ -1,0 +1,15 @@
+C:\Users\Den\Documents\Visual Studio 2015\Projects\kursovojNew\kursovojNew\bin\Release\kursovojNew.exe.config
+C:\Users\Den\Documents\Visual Studio 2015\Projects\kursovojNew\kursovojNew\obj\Release\kursovojNew.csprojResolveAssemblyReference.cache
+C:\Users\Den\Documents\Visual Studio 2015\Projects\kursovojNew\kursovojNew\obj\Release\FirstApp.g.cs
+C:\Users\Den\Documents\Visual Studio 2015\Projects\kursovojNew\kursovojNew\obj\Release\FirstAppAnswers.g.cs
+C:\Users\Den\Documents\Visual Studio 2015\Projects\kursovojNew\kursovojNew\obj\Release\MainWindow.g.cs
+C:\Users\Den\Documents\Visual Studio 2015\Projects\kursovojNew\kursovojNew\obj\Release\SecondApp.g.cs
+C:\Users\Den\Documents\Visual Studio 2015\Projects\kursovojNew\kursovojNew\obj\Release\App.g.cs
+C:\Users\Den\Documents\Visual Studio 2015\Projects\kursovojNew\kursovojNew\obj\Release\kursovojNew_MarkupCompile.cache
+C:\Users\Den\Documents\Visual Studio 2015\Projects\kursovojNew\kursovojNew\obj\Release\kursovojNew_MarkupCompile.lref
+C:\Users\Den\Documents\Visual Studio 2015\Projects\kursovojNew\kursovojNew\obj\Release\FirstApp.baml
+C:\Users\Den\Documents\Visual Studio 2015\Projects\kursovojNew\kursovojNew\obj\Release\FirstAppAnswers.baml
+C:\Users\Den\Documents\Visual Studio 2015\Projects\kursovojNew\kursovojNew\obj\Release\MainWindow.baml
+C:\Users\Den\Documents\Visual Studio 2015\Projects\kursovojNew\kursovojNew\obj\Release\SecondApp.baml
+C:\Users\Den\Documents\Visual Studio 2015\Projects\kursovojNew\kursovojNew\obj\Release\kursovojNew.exe
+C:\Users\Den\Documents\Visual Studio 2015\Projects\kursovojNew\kursovojNew\obj\Release\kursovojNew.pdb
